@@ -69,15 +69,12 @@ data-analyst-curriculum
 ```
 ```
 ````
-```
-```
-
 ---
 
 ## Week 0: CS & Unix/Linux
 ### Lectures
 - [ ] [CS50’s Introduction to Computer Science (Harvard)](https://cs50.harvard.edu/x/)  
-- [ ] [freeCodeCamp – Linux for Beginners (4 hrs)](https://www.youtube.com/watch?v=ivqocn4e-Wo)  
+- [ ] [freeCodeCamp – Linux for Beginners (4 hrs)](https://www.youtube.com/watch?v=sWbUDq4S6Y8)  
 - [ ] [MIT Missing Semester – Shell Tools & Scripting](https://missing.csail.mit.edu/2020/shell-tools/)  
 
 ### Interactive
@@ -87,7 +84,7 @@ data-analyst-curriculum
 
 ## Weeks 1–3: Python Foundations + Unix/Linux Basics
 ### Lectures
-- [ ] [freeCodeCamp – Python for Beginners (4 hrs)](https://www.youtube.com/watch?v=rfscVS0vtbw)  
+- [ ] [freeCodeCamp – Python for Beginners (4 hrs)](https://www.youtube.com/watch?v=eWRfhZUzrAc)
 - [ ] [Kaggle – Python Course](https://www.kaggle.com/learn/python)  
 - [ ] [CS50’s Introduction to Python (Harvard)](https://cs50.harvard.edu/python/2022/)  
 
@@ -102,7 +99,7 @@ data-analyst-curriculum
 - [ ] [Khan Academy – Statistics & Probability](https://www.khanacademy.org/math/statistics-probability)  
 - [ ] [StatQuest with Josh Starmer](https://www.youtube.com/user/joshstarmer)  
 - [ ] [MIT OCW – Probability & Statistics](https://ocw.mit.edu/courses/res-6-012-introduction-to-probability-spring-2018/)  
-- [ ] [freeCodeCamp – R Programming for Data Science (6 hrs)](https://www.youtube.com/watch?v=_V8eKsto3Ug)  
+- [ ] [freeCodeCamp – R Programming for Data Science (2 hrs)](https://www.youtube.com/watch?v=_V8eKsto3Ug)  
 - [ ] [R for Data Science (Book)](https://r4ds.had.co.nz/)  
 
 ### Interactive Projects
@@ -113,7 +110,7 @@ data-analyst-curriculum
 
 ## Weeks 6–7: Python for Data Analysis
 ### Lectures
-- [ ] [freeCodeCamp – Data Analysis with Python (10 hrs)](https://www.youtube.com/watch?v=r-uOLxNrNk8)  
+- [ ] [freeCodeCamp – Data Analysis with Python (5 hrs)](https://www.youtube.com/watch?v=r-uOLxNrNk8)  
 - [ ] [Kaggle – Pandas Course](https://www.kaggle.com/learn/pandas)  
 - [ ] [Kaggle – Data Visualization Course](https://www.kaggle.com/learn/data-visualization)  
 
@@ -124,10 +121,8 @@ data-analyst-curriculum
 
 ## Weeks 6–12: LLMs, PydanticAI & AI Agents
 ### Lectures
-- [ ] [freeCodeCamp – LangChain for Beginners](https://www.youtube.com/watch?v=aywZrzNaKjs) *(concepts apply to PydanticAI)*  
+- [ ] [freeCodeCamp – LangChain for Beginners](https://www.youtube.com/watch?v=lG7Uxts9SXs) *(concepts apply to PydanticAI)*  
 - [ ] [DeepLearning.AI – Free Short Courses on LLMs](https://learn.deeplearning.ai/)  
-- [ ] [AssemblyAI – LLM & AI Agent Tutorials](https://www.youtube.com/@AssemblyAI)  
-- [ ] [James Briggs – LangChain, Vector DBs](https://www.youtube.com/@jamesbriggs)  
 
 ---
 
