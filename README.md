@@ -1,4 +1,3 @@
-
 # Data Analysis + LLM Curriculum (Python, R, **PydanticAI** with Ollama)
 
 A 12-week, project-based roadmap for learning **data analysis**, **Unix/Linux basics**, and **LLM apps** using **Python**, **R**, **PydanticAI**, and **Ollama** (local models).  
@@ -189,4 +188,147 @@ data-analyst-curriculum
 ---
 
 ✅ Finish Week -1 through Week 12, sprinkle in the optional “cool kids” track, and she’ll have a full **data + AI + Linux toolkit** with a strong GitHub portfolio.
+
+
+
+## 📊 Data Analysis + LLM Projects (Week-by-Week)
+
+This project roadmap matches the 12-week curriculum. All projects are aligned to tools introduced that week, and many include LLM integration using **PydanticAI** and **Ollama**.
+
+---
+
+### ✅ Week 0: CS & Unix/Linux
+
+**Project:** Command Line File Audit Tool
+
+* Write a Python CLI tool to summarize number, type, and size of files in a directory.
+* Optional: Output as a CSV report.
+
+---
+
+### ✅ Week 1: Python Fundamentals
+
+**Project:** Python Expense Tracker (CLI)
+
+* Build a simple CLI that logs expenses and categorizes them.
+* Output to CSV with `pandas`.
+* Stretch: Add terminal charts with `rich` or `plotext`.
+
+---
+
+### ✅ Week 2: Python Functions + CLI Skills
+
+**Project:** CSV Column Analyzer
+
+* Let users input a CSV and return column types, null counts, and stats.
+* Use `pydantic-ai` to summarize or rephrase the report via LLM.
+
+---
+
+### ✅ Week 3: Basic EDA in Python
+
+**Project:** Netflix Dataset EDA
+
+* Use `pandas`, `matplotlib`, and `seaborn` to explore the [Netflix dataset](https://www.kaggle.com/shivamb/netflix-shows).
+* Ask Ollama to suggest plots or describe patterns with `pydantic-ai` schema outputs.
+
+---
+
+### ✅ Week 4: Statistics with Python
+
+**Project:** Survey Summary Generator
+
+* Take a small dataset of survey results.
+* Use Python to calculate means, modes, distributions.
+* Ask LLM to generate a Markdown report with PydanticAI.
+
+---
+
+### ✅ Week 5: Intro to R & Tidyverse
+
+**Project:** R Data Explorer
+
+* Use R (`dplyr`, `ggplot2`) to generate a basic report of any dataset.
+* Export tables/plots.
+* Bonus: Knit an `.Rmd` to HTML.
+
+---
+
+### ✅ Week 6: Advanced Pandas
+
+**Project:** Airbnb Dataset EDA Bot
+
+* Use Kaggle's NYC Airbnb dataset.
+* Build a CLI or notebook that allows user to:
+
+  * Load data
+  * Ask questions
+  * Get answers powered by Ollama + PydanticAI
+
+---
+
+### ✅ Week 7: Data Cleaning with LLMs
+
+**Project:** Dirty CSV Fixer
+
+* Input: Messy CSV (with typos, missing units, bad formats).
+* Define a schema with `pydantic-ai`.
+* LLM suggests cleaned rows and explanations.
+
+---
+
+### ✅ Week 8: CSV Q\&A Assistant
+
+**Project:** CSV Chat Agent
+
+* Upload a CSV and ask natural questions ("What’s the avg revenue in Q1?").
+* Use `pydantic-ai` + `chromadb` + `ollama` for retrieval.
+
+---
+
+### ✅ Week 9: PDF Report Analyzer
+
+**Project:** PDF → Markdown Extractor
+
+* Load a multi-page PDF report (e.g. economic data).
+* Use PyMuPDF to extract text.
+* Ask LLM to generate a summary and key metrics as Markdown.
+
+---
+
+### ✅ Week 10: SQL + LLM
+
+**Project:** Natural Language to SQL
+
+* Load a SQLite database (e.g. ecommerce).
+* User types: "Top 5 customers by revenue."
+* LLM generates SQL → fetch results → show as table or chart.
+
+---
+
+### ✅ Week 11: Capstone Prep
+
+**Project:** Analyst Copilot (Part 1)
+
+* Combine multiple tools:
+
+  * Ask a question
+  * Pull from CSV + SQL
+  * Output: Graphs + Summary + raw data
+* Use `pydantic-ai` to structure answers.
+
+---
+
+### ✅ Week 12: Capstone Final
+
+**Project:** Analyst Copilot (Final)
+
+* Wrap up with a CLI or Web UI (Streamlit).
+* Multi-modal assistant: PDF + CSV + SQL.
+* Structured answers + human-friendly output.
+* Host on GitHub with full documentation.
+
+---
+
+These projects ensure hands-on practice across **data analysis**, **LLM-powered workflows**, and reproducible portfolio-building with Python, R, SQL, and PydanticAI.
 
