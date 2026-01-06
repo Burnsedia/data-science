@@ -25,3 +25,7 @@ Start with R and Tidyverse for data manipulation. Estimated time: 7-10 hours.
 
 ## Next Steps
 Move to [Week 6](week6.md).
+
+---
+
+Created by [Bailey Burns](https://baileyburnsed.dev)
