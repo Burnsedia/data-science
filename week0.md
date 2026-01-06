@@ -23,4 +23,8 @@ This week introduces computer science fundamentals and Unix/Linux command-line b
 - [Shell Scripting Tutorial](https://www.shellscript.sh/) - For advanced users.
 
 ## Next Steps
-Complete all tasks and commit to GitHub. Proceed to [Week 1-3](week1-3.md) for Python basics.
+Complete all tasks and commit to GitHub. Proceed to [Week 1](week1.md) for Python basics.
+
+---
+
+Created by [Bailey Burns](https://baileyburnsed.dev)
