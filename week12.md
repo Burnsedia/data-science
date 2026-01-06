@@ -17,3 +17,7 @@ Build and deploy capstone. Estimated time: 5-7 hours.
 
 ## Next Steps
 Curriculum complete! See [Advanced](advanced.md).
+
+---
+
+Created by [Bailey Burns](https://baileyburnsed.dev)
