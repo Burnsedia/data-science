@@ -1,51 +1,71 @@
 # Data Analysis + LLM Curriculum (Python, R, **PydanticAI** with Ollama)
 
 A 12-week, project-based roadmap for learning **data analysis**, **Unix/Linux basics**, and **LLM apps** using **Python**, **R**, **PydanticAI**, and **Ollama** (local models).  
+Now updated for **cross-platform support** (Mac, Ubuntu/WSL, Arch Linux) with modern tools like PyTorch, Plotly, and Ruff.  
 All resources are **100% free** and include lectures, interactive projects, GitHub practice, and an **optional "cool kids" track** with Neovim + CLI tools.
 
 ---
 
-## Week -1: Mac + Homebrew Setup Checklist
+## Week -1: Cross-Platform Setup Checklist
 
-### Step 1: Install Python + Tools
-- [ ] Install Python 3.11 → `brew install python@3.11`
-- [ ] Install uv package manager → `brew install uv`
+This curriculum supports Mac, Ubuntu/WSL, and Arch Linux. Choose your platform below. UV is the preferred Python package manager for its speed. Python 3.12 is recommended for modern features.
+
+### Universal Steps (All Platforms)
+- [ ] Install Git (see platform-specific below)
+- [ ] Install UV → `pip install uv` (or via platform package manager if available)
+- [ ] Install VS Code (download from https://code.visualstudio.com/)
+- [ ] Install Ollama (download from https://ollama.ai/ and follow platform installer)
+- [ ] Pull Llama3.1 model → `ollama pull llama3.1`
+- [ ] Pull nomic-embed-text model → `ollama pull nomic-embed-text`
+- [ ] Test Ollama → `ollama run llama3.1 "Hello world"`
+- [ ] Create project folder → `mkdir data-analyst-curriculum && cd data-analyst-curriculum`
+- [ ] Create virtual environment → `uv venv .venv`
+- [ ] Activate environment → `source .venv/bin/activate`
+
+### Platform-Specific Steps
+
+#### Mac (using Homebrew)
+- [ ] Install Homebrew → `/bin/bash -c "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/HEAD/install.sh)"`
+- [ ] Install Python 3.12 → `brew install python@3.12`
 - [ ] Install Git → `brew install git`
 - [ ] Install iTerm2 → `brew install --cask iterm2`
-- [ ] Install VSCode → `brew install --cask visual-studio-code`
-- [ ] Verify Python version → `python3 --version`
-
-### Step 2: Install R + RStudio
 - [ ] Install R → `brew install --cask r`
 - [ ] Install RStudio → `brew install --cask rstudio`
+- [ ] Verify Python version → `python3 --version`
 
-### Step 3: Install JupyterLab
+#### Ubuntu/WSL (using apt)
+- [ ] Update system → `sudo apt update && sudo apt upgrade -y`
+- [ ] Install Python 3.12 → `sudo apt install python3.12 python3.12-venv`
+- [ ] Install Git → `sudo apt install git`
+- [ ] Install R → `sudo apt install r-base`
+- [ ] Install RStudio → Download .deb from https://posit.co/download/rstudio-desktop/ and `sudo dpkg -i rstudio-*.deb`
+- [ ] Verify Python version → `python3 --version`
+- [ ] (WSL only) Enable WSL if not done: On Windows, run `wsl --install -d Ubuntu`
+
+#### Arch Linux (using pacman - Flex Mode)
+- [ ] Install Python → `pacman -S python`
+- [ ] Install Git → `pacman -S git`
+- [ ] Install R → `pacman -S r`
+- [ ] Install RStudio → `pacman -S rstudio-desktop` (or from AUR: `yay -S rstudio-desktop`)
+- [ ] Verify Python version → `python --version`
+
+### Step 3: Install Data Science Libraries (All Platforms)
 - [ ] Install JupyterLab → `uv install jupyterlab`
 - [ ] Run Jupyter → `jupyter lab`
-
-### Step 4: Install Data Science Libraries
 - [ ] Install NumPy → `uv install numpy`
 - [ ] Install pandas → `uv install pandas`
 - [ ] Install matplotlib → `uv install matplotlib`
 - [ ] Install seaborn → `uv install seaborn`
 - [ ] Install SciPy → `uv install scipy`
 - [ ] Install statsmodels → `uv install statsmodels`
+- [ ] Install PyTorch (for modern ML) → `uv install torch torchvision torchaudio`
+- [ ] Install Plotly (for interactive viz) → `uv install plotly`
+- [ ] Install Ruff (modern linter) → `uv install ruff`
 
-### Step 5: Install AI Stack
+### Step 4: Install AI Stack (All Platforms)
 - [ ] Install Pydantic → `uv install pydantic`
 - [ ] Install PydanticAI → `uv install pydantic-ai`
 - [ ] Install ChromaDB → `uv install chromadb`
-
-### Step 6: Install Ollama
-- [ ] Install Ollama → `brew install ollama`
-- [ ] Pull Llama3.1 model → `ollama pull llama3.1`
-- [ ] Pull nomic-embed-text model → `ollama pull nomic-embed-text`
-- [ ] Test Ollama → `ollama run llama3.1 "Hello world"`
-
-### Step 7: Create Project Folder
-- [ ] Create project folder → `mkdir data-analyst-curriculum && cd data-analyst-curriculum`
-- [ ] Create virtual environment → `uv venv .venv`
-- [ ] Activate environment → `source .venv/bin/activate`
 
 ---
 
