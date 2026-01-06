@@ -28,3 +28,7 @@ See [Ethics](ethics.md) for bias.
 
 ## Next Steps
 Move to [Week 5](week5.md).
+
+---
+
+Created by [Bailey Burns](https://baileyburnsed.dev)
