@@ -38,6 +38,10 @@ See [Contributing](contributing.md) for GitHub workflows and how to improve this
 
 ---
 
+Created by [Bailey Burns](https://baileyburnsed.dev)
+
+---
+
 ## Suggested Repo Layout
 
 ```text
