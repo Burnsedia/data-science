@@ -23,3 +23,7 @@ Intro to ML with Python. Estimated time: 5-7 hours.
 
 ## Next Steps
 Move to [Week 11](week11.md).
+
+---
+
+Created by [Bailey Burns](https://baileyburnsed.dev)

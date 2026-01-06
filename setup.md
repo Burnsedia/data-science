@@ -96,3 +96,7 @@ Activate your venv: `source .venv/bin/activate`
 ## Next Steps
 
 Once setup is complete, proceed to [Week 0](week0.md).
+
+---
+
+Created by [Bailey Burns](https://baileyburnsed.dev)

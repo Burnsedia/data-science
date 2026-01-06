@@ -17,3 +17,7 @@ Prepare for final projects. Estimated time: 5-7 hours.
 
 ## Next Steps
 Move to [Week 12](week12.md).
+
+---
+
+Created by [Bailey Burns](https://baileyburnsed.dev)

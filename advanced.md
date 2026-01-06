@@ -29,3 +29,7 @@ This optional track enhances productivity with modern CLI tools and Neovim. For 
 
 ## Integration
 Use this throughout the curriculum for efficient coding.
+
+---
+
+Created by [Bailey Burns](https://baileyburnsed.dev)

@@ -76,3 +76,7 @@ This directory catalogs hands-on projects by week, with detailed steps, code exa
 ## Tips
 - Commit weekly to GitHub.
 - Use Ruff for code quality.
+
+---
+
+Created by [Bailey Burns](https://baileyburnsed.dev)

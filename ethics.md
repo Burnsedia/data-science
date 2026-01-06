@@ -19,3 +19,7 @@ This guide covers responsible practices in data science and AI. Integrate these 
 
 ## Discussion
 Reflect on ethics in your capstones.
+
+---
+
+Created by [Bailey Burns](https://baileyburnsed.dev)

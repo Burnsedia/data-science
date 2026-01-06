@@ -24,3 +24,7 @@ Deepen pandas skills and EDA techniques. Estimated time: 7-10 hours.
 
 ## Next Steps
 Move to [Week 7](week7.md).
+
+---
+
+Created by [Bailey Burns](https://baileyburnsed.dev)
