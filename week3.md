@@ -28,3 +28,7 @@ Consider data privacy; see [Ethics](ethics.md).
 
 ## Next Steps
 Move to [Week 4](week4.md).
+
+---
+
+Created by [Bailey Burns](https://baileyburnsed.dev)
