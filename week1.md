@@ -25,3 +25,7 @@ This week covers Python fundamentals: syntax, data types, loops, and conditional
 
 ## Next Steps
 Move to [Week 2](week2.md).
+
+---
+
+Created by [Bailey Burns](https://baileyburnsed.dev)
