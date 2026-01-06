@@ -24,3 +24,7 @@ Learn visualization with matplotlib, seaborn, and Plotly. Estimated time: 7-10 h
 
 ## Next Steps
 Move to [Week 8](week8.md).
+
+---
+
+Created by [Bailey Burns](https://baileyburnsed.dev)
