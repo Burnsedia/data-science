@@ -10,10 +10,18 @@ This repository is organized into separate files for easier navigation. See the 
 
 - [Setup Guide](setup.md) - Cross-platform installation and environment setup
 - [Week 0: CS & Unix/Linux](week0.md) - Computer science basics and shell tools
-- [Week 1-3: Python Foundations](week1-3.md) - Python basics and data structures
-- [Week 4-5: Statistics & R](week4-5.md) - Stats intro and R/Tidyverse
-- [Week 6-7: Python Data Analysis](week6-7.md) - Pandas, EDA, and visualization
-- [Week 8-12: LLMs & AI Agents](week8-12.md) - PydanticAI, Ollama, and projects
+- [Week 1: Python Basics](week1.md) - Python fundamentals
+- [Week 2: Python Functions and CLI](week2.md) - Functions and command-line tools
+- [Week 3: Basic EDA in Python](week3.md) - Exploratory data analysis
+- [Week 4: Statistics](week4.md) - Core statistics concepts
+- [Week 5: Intro to R](week5.md) - R and Tidyverse
+- [Week 6: Pandas and EDA](week6.md) - Advanced pandas
+- [Week 7: Data Visualization](week7.md) - Plotting with matplotlib/seaborn/Plotly
+- [Week 8: Intro to LLMs](week8.md) - Large language models
+- [Week 9: SQL Databases](week9.md) - Database querying
+- [Week 10: Machine Learning Basics](week10.md) - ML with Python
+- [Week 11: Capstone Preparation](week11.md) - Planning final projects
+- [Week 12: Capstone Final](week12.md) - Build and deploy capstone
 - [Project Roadmap](projects.md) - Hands-on projects for each week
 - [Advanced Track](advanced.md) - Neovim, CLI tools, and power user tips
 - [Ethics in Data & AI](ethics.md) - Responsible practices and bias awareness
