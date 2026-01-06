@@ -24,3 +24,7 @@ Master SQL for data querying. Estimated time: 5-7 hours.
 
 ## Next Steps
 Move to [Week 10](week10.md).
+
+---
+
+Created by [Bailey Burns](https://baileyburnsed.dev)
