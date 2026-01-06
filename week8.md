@@ -24,3 +24,7 @@ Learn basics of large language models with PydanticAI and Ollama. Estimated time
 
 ## Next Steps
 Move to [Week 9](week9.md).
+
+---
+
+Created by [Bailey Burns](https://baileyburnsed.dev)
