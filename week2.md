@@ -25,3 +25,7 @@ Focus on functions, modules, and building CLI tools. Estimated time: 6-10 hours.
 
 ## Next Steps
 Move to [Week 3](week3.md).
+
+---
+
+Created by [Bailey Burns](https://baileyburnsed.dev)
