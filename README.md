@@ -20,21 +20,21 @@ All resources are **100% free** and include lectures, interactive projects, GitH
 - [ ] Install RStudio → `brew install --cask rstudio`
 
 ### Step 3: Install JupyterLab
-- [ ] Install JupyterLab → `uv pip install jupyterlab`
+- [ ] Install JupyterLab → `uv install jupyterlab`
 - [ ] Run Jupyter → `jupyter lab`
 
 ### Step 4: Install Data Science Libraries
-- [ ] Install NumPy → `uv pip install numpy`
-- [ ] Install pandas → `uv pip install pandas`
-- [ ] Install matplotlib → `uv pip install matplotlib`
-- [ ] Install seaborn → `uv pip install seaborn`
-- [ ] Install SciPy → `uv pip install scipy`
-- [ ] Install statsmodels → `uv pip install statsmodels`
+- [ ] Install NumPy → `uv install numpy`
+- [ ] Install pandas → `uv install pandas`
+- [ ] Install matplotlib → `uv install matplotlib`
+- [ ] Install seaborn → `uv install seaborn`
+- [ ] Install SciPy → `uv install scipy`
+- [ ] Install statsmodels → `uv install statsmodels`
 
 ### Step 5: Install AI Stack
-- [ ] Install Pydantic → `uv pip install pydantic`
-- [ ] Install PydanticAI → `uv pip install pydantic-ai`
-- [ ] Install ChromaDB → `uv pip install chromadb`
+- [ ] Install Pydantic → `uv install pydantic`
+- [ ] Install PydanticAI → `uv install pydantic-ai`
+- [ ] Install ChromaDB → `uv install chromadb`
 
 ### Step 6: Install Ollama
 - [ ] Install Ollama → `brew install ollama`
